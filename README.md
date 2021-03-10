@@ -7,10 +7,10 @@ Install:
 
 1:git clone https://github.com/SAMPAIAO/polybar-aesthetic
 
-2:The installation is so easy,it's only yous run the command:
+2:The installation is so easy,it's only you run the command:
 sh install_script.sh
 ![alt text](https://i.imgur.com/IePmDY1.png)
-will open this screen (choose the theme you want)
+will open this screen (choose the theme of you want)
 
 ########################################################
 
