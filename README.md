@@ -1,3 +1,3 @@
 # polybar-aesthetic
 
-![alt text](https://imgur.com/a/oefaPul)
+![alt text](https://i.imgur.com/hjKJA2p.jpg)
